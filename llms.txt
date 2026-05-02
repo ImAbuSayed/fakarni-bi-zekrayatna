@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> lyrics = """
+> يا حبيبي تعالى بناديلك في ليالي الشوق
+> قلبك و روحي معاك في كل مكان فوق
+> متسبش إيدي من إيدك خلينا نعيش
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
